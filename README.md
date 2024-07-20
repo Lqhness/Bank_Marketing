@@ -1,4 +1,14 @@
-Background information:
+**Classification performance summary**: Uniformly based on the best model parameters selected after grid search and 5-fold cross-check, the performance index is **AUC**.
+- Logistic regression: 0.8709369761661625
+- Decision tree: 0.8792667771333885
+- Random Forest:
+- LightGBM: 0.9310263771410956
+- XGBOOST:
+- SVM:
+ 
+
+
+**Background information**:
 
 The data is related with direct marketing campaigns of a banking institution on several products.
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required,

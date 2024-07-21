@@ -1,10 +1,10 @@
 **Classification performance summary**: Uniformly based on the best model parameters selected after grid search and 5-fold cross-check, the performance index is **AUC**.
 - Logistic regression: 0.8709369761661625
 - Decision tree: 0.8792667771333885
-- Random Forest:
+- Random Forest：0.9256584651548139
 - LightGBM: 0.9310263771410956
-- XGBOOST:
-- SVM:
+- XGBOOST：0.9290187086954008
+- SVM：0.7305446908537407
  
 
 
